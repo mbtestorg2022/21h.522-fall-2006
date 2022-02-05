@@ -45,12 +45,57 @@ Arrangements have been made to put two copies of each film on reserve at the Hum
 Grading Policies
 ----------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 20% |
-| Three Essays | 45% |
-| Short Exam | 10% |
-| Final Exam | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Essays
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Exam
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grades are based on class participation, three essays, a short exam and a final exam.
 
@@ -96,36 +141,459 @@ F = Below 55
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | FILMS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Introduction | **Watch The World of the Heike (23 min) and Hôichi the Earless (excerpted from Kwaidan by Kobayashi Masaki, 1964; 50min)** by Ses #3 | &nbsp; |
-| {{< td-colspan 4 >}}**I. Ways of The Warriors**{{< /td-colspan >}} ||||
-| 2 | Historical/Geographical Overview | &nbsp; |
-| 3 | Emergence of the Warrior Ethos | **Watch Seven Samurai (Akira Kurosawa, 1954; 160 min) ** by Ses #5 | &nbsp; |
-| 4 | Zen | &nbsp; |
-| 5 | Zen and the Samurai | **Watch Throne of Blood (Kurosawa, 1957; 105 min)** by Ses #7 | &nbsp; |
-| 6 | Short Exam | &nbsp; |
-| 7 | Bushidô | &nbsp; |
-| {{< td-colspan 4 >}}**II. Spiritual and Supernatural Worlds**{{< /td-colspan >}} ||||
-| 8 | The Forty-Seven Ronin | **47 Rônin (Mizoguchi, 1941; 241 min)** | &nbsp; |
-| 9 | The Forty-Seven Ronin (cont.) | _47 Rônin_ | &nbsp; |
-| 10 | Ugetsu | **Ugetsu (Mizoguchi, 1953; 94 min)** | Essay 1 due |
-| 11 | Medieval Aesthetics | **Onibaba (Shindô Kaneto, 1964; 103 min)** | &nbsp; |
-| 12 | Medieval Aesthetics (cont.) | _Onibaba_ | &nbsp; |
-| 13 | Zen and the Tea Ceremony | **Sen no Rikyû (Teshigahara Hiroshi, 1990; 116 min)** | &nbsp; |
-| 14 | Christianity | _Sen no Rikyû_ | &nbsp; |
-| {{< td-colspan 4 >}}**III. Worlds of Pleasure/Worlds of Pain**{{< /td-colspan >}} ||||
-| 15 | Tokugawa Urban Life | **Utamaro and His Five Women (Mizoguchi, 1946; 106 min)** | &nbsp; |
-| 16 | Saikaku | _Utamaro and His Five Women_ | &nbsp; |
-| 17 | Chikamatsu | **Double Suicide (Shinoda Masahiro, 1969; 105 min)** | Essay 2 due |
-| 18 | Ecstasy and Self Destruction | _Double Suicide_ | &nbsp; |
-| 19 | Women under Feudalism | **Samurai Rebellion (Kobayashi, 1967; 120 min)** | &nbsp; |
-| 20 | Saikaku's Amorous Woman/Mizoguchi's Tragic Heroine | _Samurai Rebellion_ | &nbsp; |
-| {{< td-colspan 4 >}}**IV. Reassessing The Samurai**{{< /td-colspan >}} ||||
-| 21 | Oharu |  {{< br >}}{{< br >}} Finished _Samurai Rebellion_ {{< br >}}{{< br >}} Watch **Life of Oharu (Mizoguchi, 1952; 136 min)** {{< br >}}{{< br >}}  | &nbsp; |
-| 22 | Repression and Protest in History and Film | **Harakiri (Kobayashi, 1962; 134 min)** | Essay 3 due |
-| 23 | Rebellions | _Harakiri_ | &nbsp; |
-| 24 | Failed Samurai | **Kagemusha (Kurosawa, 1980; 179 m)** | &nbsp; |
-| 25 | Failed Samurai (cont.) | _Kagemusha_ | &nbsp; |
-| 26 | Conclusion; Review for Final | Finished _Kagemusha_ | &nbsp; |
-| &nbsp; | Final Exam | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+FILMS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+**Watch The World of the Heike (23 min) and Hôichi the Earless (excerpted from Kwaidan by Kobayashi Masaki, 1964; 50min)** by Ses #3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**I. Ways of The Warriors**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Historical/Geographical Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Emergence of the Warrior Ethos
+{{< tdclose >}}
+{{< tdopen >}}
+**Watch Seven Samurai (Akira Kurosawa, 1954; 160 min) ** by Ses #5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Zen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Zen and the Samurai
+{{< tdclose >}}
+{{< tdopen >}}
+**Watch Throne of Blood (Kurosawa, 1957; 105 min)** by Ses #7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Short Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Bushidô
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**II. Spiritual and Supernatural Worlds**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Forty-Seven Ronin
+{{< tdclose >}}
+{{< tdopen >}}
+**47 Rônin (Mizoguchi, 1941; 241 min)**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Forty-Seven Ronin (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_47 Rônin_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Ugetsu
+{{< tdclose >}}
+{{< tdopen >}}
+**Ugetsu (Mizoguchi, 1953; 94 min)**
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Medieval Aesthetics
+{{< tdclose >}}
+{{< tdopen >}}
+**Onibaba (Shindô Kaneto, 1964; 103 min)**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Medieval Aesthetics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_Onibaba_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Zen and the Tea Ceremony
+{{< tdclose >}}
+{{< tdopen >}}
+**Sen no Rikyû (Teshigahara Hiroshi, 1990; 116 min)**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Christianity
+{{< tdclose >}}
+{{< tdopen >}}
+_Sen no Rikyû_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**III. Worlds of Pleasure/Worlds of Pain**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Tokugawa Urban Life
+{{< tdclose >}}
+{{< tdopen >}}
+**Utamaro and His Five Women (Mizoguchi, 1946; 106 min)**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Saikaku
+{{< tdclose >}}
+{{< tdopen >}}
+_Utamaro and His Five Women_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Chikamatsu
+{{< tdclose >}}
+{{< tdopen >}}
+**Double Suicide (Shinoda Masahiro, 1969; 105 min)**
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Ecstasy and Self Destruction
+{{< tdclose >}}
+{{< tdopen >}}
+_Double Suicide_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Women under Feudalism
+{{< tdclose >}}
+{{< tdopen >}}
+**Samurai Rebellion (Kobayashi, 1967; 120 min)**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Saikaku's Amorous Woman/Mizoguchi's Tragic Heroine
+{{< tdclose >}}
+{{< tdopen >}}
+_Samurai Rebellion_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**IV. Reassessing The Samurai**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Oharu
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Finished _Samurai Rebellion_
+
+Watch **Life of Oharu (Mizoguchi, 1952; 136 min)**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Repression and Protest in History and Film
+{{< tdclose >}}
+{{< tdopen >}}
+**Harakiri (Kobayashi, 1962; 134 min)**
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Rebellions
+{{< tdclose >}}
+{{< tdopen >}}
+_Harakiri_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Failed Samurai
+{{< tdclose >}}
+{{< tdopen >}}
+**Kagemusha (Kurosawa, 1980; 179 m)**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Failed Samurai (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+_Kagemusha_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion; Review for Final
+{{< tdclose >}}
+{{< tdopen >}}
+Finished _Kagemusha_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
