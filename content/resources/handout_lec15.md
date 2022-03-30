@@ -4,6 +4,7 @@ description: This handout contains information about zen and tea, RIKYU versus H
   and sen no rikyu.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/e85fca292ad6ab6b151bac3822b15129_handout_lec15.pdf
 file_type: application/pdf
+parent_uid: 956c0b50-de80-15b2-ef2a-96cfdf39519b
 resourcetype: Document
 title: handout_lec15.pdf
 uid: e85fca29-2ad6-ab6b-151b-ac3822b15129

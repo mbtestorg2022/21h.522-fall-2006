@@ -4,6 +4,7 @@ description: Lecture presentation about clearing fields, rise of warrior (bushi)
   emperor go t?ba, rise of the taira and genpei wars.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/f6f8780f3f2291853e559b320d18f4aa_lec02.pdf
 file_type: application/pdf
+parent_uid: 956c0b50-de80-15b2-ef2a-96cfdf39519b
 resourcetype: Document
 title: lec02.pdf
 uid: f6f8780f-3f22-9185-3e55-9b320d18f4aa
